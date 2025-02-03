@@ -12,7 +12,7 @@ A simple web-based travel checklist built with React to help you organize your t
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone [<repo-url>](https://github.com/unauub/travel-list.git)
+   git clone [<https://github.com/unauub/travel-list.git>]
    ```
 2. Navigate to the project directory:
    ```sh
